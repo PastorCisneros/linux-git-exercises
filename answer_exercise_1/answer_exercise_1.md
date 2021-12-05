@@ -38,4 +38,4 @@ Se configuro en el sistema
 • Hora de ejecicion a las 23.59 hrs
 • Todos los meses del año
 
-![alt text](images/image.png)
+![alt text](images/image1.png)
